@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12">
                 <p class="pull-left hidden-xs"><i class="fa fa-clock-o"></i><span>Seg - Sex 8h - 17h30</span></p> 
-                <p class="pull-right"><i class="fa fa-phone"></i>Tel (79) 9 9899-4170</p>
+                <p class="pull-right"><i class="fa fa-phone"></i>Tel (79) 9 9899 - 4170</p>
             </div>
         </div>
     </div>
