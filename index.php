@@ -15,14 +15,14 @@
 						<img src="img/slides/1.jpg" alt="" />
 						<div class="flex-caption">
 							<h3>Criativo</h3> 
-							<p>Nós criamos as oportunidades</p> 	 
+							<p>Nós somos a mudança</p> 	 
 						</div>
 					</li>
 					<li>
 						<img src="img/slides/2.jpg" alt="" />
 						<div class="flex-caption">
 							<h3>Solução</h3> 
-							<p>O sucesso depende de trabalho</p> 
+							<p>Conectamos você ao futuro</p> 
 						</div>
 					</li>
 				</ul>
@@ -56,14 +56,14 @@
 				</div>
 				<div class="row">
 					<div class="col-sm-4 info-blocks">
-						<i class="icon-info-blocks fa fa-bell-o"></i>
+						<i class="icon-info-blocks fa fa-desktop"></i>
 						<div class="info-blocks-in">
 							<h3>Sites</h3>
 							<p>Desenvolvemos websites, sistemas e lojas virtuais (e-commerce).</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">
-						<i class="icon-info-blocks fa fa-hdd-o"></i>
+						<i class="icon-info-blocks fa fa-mobile"></i>
 						<div class="info-blocks-in">
 							<h3>Responsive Design</h3>
 							<p>Websites adaptáveis (responsivos) para todos os dispositivos móveis.</p>
@@ -73,27 +73,27 @@
 						<i class="icon-info-blocks fa fa-lightbulb-o"></i>
 						<div class="info-blocks-in">
 							<h3>Design Gráfico</h3>
-							<p>Produzimos banners, cards visuais, logomarcas, convites e cartões personalizados.</p>
+							<p>Produzimos banners, cards, logomarcas, convites, cartões personalizados e muito mais.</p>
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-sm-4 info-blocks">
-						<i class="icon-info-blocks fa fa-code"></i>
+						<i class="icon-info-blocks fa fa-shopping-cart"></i>
 						<div class="info-blocks-in">
 							<h3>Lojas Virtuais</h3>
 							<p>Desenvolvemos a sua loja virtual / e-commerce.</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">
-						<i class="icon-info-blocks fa fa-compress"></i>
+						<i class="icon-info-blocks fa fa-code"></i>
 						<div class="info-blocks-in">
-							<h3>Serviços de SEO</h3>
-							<p>Otimização de sites, paginas web para melhorar o posicionamento nos buscadores da atualidade.</p>
+							<h3>Blogs</h3>
+							<p>Blogs personalizados e responsivos, desenvolvidos sobre a plataforma Wordpress.</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">
-						<i class="icon-info-blocks fa fa-html5"></i>
+						<i class="icon-info-blocks fa fa-cogs"></i>
 						<div class="info-blocks-in">
 							<h3>Sistemas</h3>
 							<p>Precisa de um sistema personalizado para sua empresa? Conte com a gente!</p>
@@ -111,8 +111,8 @@
 						<div class="section-title text-center">
 							<h2>Nossa Empresa</h2>
 							<p>
-								Somos uma agência digital especializada em produtos web<br>
-								Desenvolvemos e criamos soluções para o seu negócio.
+								Somos uma startup digital especializada em produtos web<br>
+								Desenvolvemos e criamos soluções para o seu negócio
 							</p>
 						</div>
 					</div>
@@ -129,7 +129,7 @@
 								<li><span class="fa fa-angle-right"></span> Visão: Ser referência nacional na prestação de serviços ligados às novas tecnologias web.</li>
 								<li><span class="fa fa-angle-right"></span> Valores: Inovação tecnológica, criatividade, responsabilidade social e corporativa, espírito inovador, qualidade, flexibilidade, ética, lealdade e excelência.</li>
 							</ul>
-							<button type="button" class="btn btn-secondary">
+							<button type="button" class="button-more">
 								<a href="about.php">Saiba mais</a>
 							</button>
 						</div>
@@ -152,7 +152,7 @@
 						</div>
 						<div class="col-md-4">
 							<div class="block-heading-two">
-								<h3><span>Latest News</span></h3>
+								<h3><span>FAQ</span></h3>
 							</div>		
 							<div class="panel-group" id="accordion-alt3">
 								<div class="panel">	
@@ -231,7 +231,7 @@
 										<img alt="" src="img/ceo.png" class="pull-left">
 										<div class="pull-left">
 											<span class="testimonials-name">Alexandre Costa</span>
-											<span class="testimonials-post">CEO & Fundador | Programador</span>
+											<span class="testimonials-post">Head Desenvolvimento | Programador</span>
 										</div>
 									</div>
 								</div>
