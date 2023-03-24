@@ -22,7 +22,7 @@
 				<div class="container">
 					<div class="row showcase-section">
 						<div class="col-md-6">
-							<img src="img/about.png" alt="showcase image">
+							<img src="img/about.png" alt="logo da empresa">
 						</div>
 						<div class="col-md-6">
 							<div class="about-text">
@@ -33,7 +33,7 @@
 									Nosso foco é na resolução de problemas dos nossos clientes, através da tecnologia, transformamos problemas em soluções.
 								</p>
 								<p>
-									Desenvolvemos sites, sistemas, e-commerce, prestamos serviços de SEO, e toda uma gama de serviços de design como 
+									Desenvolvemos sites, sistemas, e-commerce, blogs, manutenção em sistemas e toda uma gama de serviços de design como 
 									banners, logomarca, panfletos, convites, cartões, planners e muitos, todos personalizados a pedido e gosto do cliente.
 								</p>
 							</div>
@@ -48,7 +48,14 @@
 							<div class="block-heading-two">
 								<h3><span>Por que nos escolher?</span></h3>
 							</div>
-							<p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur. <br/><br/>Sed ut perspiciaatis iste natus error sit voluptatem probably haven't heard of them accusamus.</p>
+							<p>
+								Respiramos inovação, levamos no coração tudo o que fazemos, tiramos ideias do papel e 
+								transformamos em soluções.
+								Somos uma startup com foco em transformação e o desejo de fazer a diferença é enorme.
+								Desenvolvemos a solução para o seu problema, nos conte qual e faremos, através da tecnologia
+								tudo ficar mais simples.<br/><br/>
+								Somos a mudança, conectamos vocês ao futuro.
+							</p>
 						</div>
 						<div class="col-md-4">
 							<div class="block-heading-two">
@@ -59,13 +66,13 @@
 									<div class="panel-heading">
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseOne-alt3">
-												<i class="fa fa-angle-right"></i> Accordion Heading Text Item # 1
+												<i class="fa fa-angle-right"></i> Desenvolvimento de Sistemas # 1
 											</a>
 										</h4>
 									</div>
 									<div id="collapseOne-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-											Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+											Desenvolvemos sistemas para web, blogs e landpages, tudo de acordo com o desejo do cliente. 
 										</div>
 									</div>
 								</div>
@@ -73,13 +80,13 @@
 									<div class="panel-heading">
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseTwo-alt3">
-												<i class="fa fa-angle-right"></i> Accordion Heading Text Item # 2
+												<i class="fa fa-angle-right"></i> E-commerce # 2
 											</a>
 										</h4>
 									</div>
 									<div id="collapseTwo-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-											Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+											Desenvolvemos a sua loja virtual, visando sempre que o nosso cliente tenha o seu retorno financeiro.
 										</div>
 									</div>
 								</div>
@@ -87,13 +94,13 @@
 									<div class="panel-heading">
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseThree-alt3">
-												<i class="fa fa-angle-right"></i> Accordion Heading Text Item # 3
+												<i class="fa fa-angle-right"></i> Manutenção em Sistemas # 3
 											</a>
 										</h4>
 									</div>
 									<div id="collapseThree-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-											Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+											Realizamos manutenção em sistemas web desenvolvido em PHP, Laravel ou Wordpress.
 										</div>
 									</div>
 								</div>
@@ -101,13 +108,13 @@
 									<div class="panel-heading">
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseFour-alt3">
-												<i class="fa fa-angle-right"></i> Accordion Heading Text Item # 4
+												<i class="fa fa-angle-right"></i> Design Gráfico # 4
 											</a>
 										</h4>
 									</div>
 									<div id="collapseFour-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-											Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+											Desenvolvemos a sua marca, sua propaganda nas diversas social media, nos conte o que precisa ser feito e faremos.
 										</div>
 									</div>
 								</div>

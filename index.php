@@ -146,9 +146,15 @@
 					<div class="row">
 						<div class="col-md-4">
 							<div class="block-heading-two">
-								<h3><span>Programes</span></h3>
+								<h3><span>Squad as a Service</span></h3>
 							</div>
-							<p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur. <br><br>Sed ut perspiciaatis iste natus error sit voluptatem probably haven't heard of them accusamus.</p>
+							<p>
+							No mundo em rápida evolução, as empresas precisam de soluções em software para conectar e atender seus clientes.
+							Sabemos que a tecnologia tem o poder extraordinário de transformar inteiramente como qualquer negócio funciona, 
+							mas isso só é possível ao ter as pessoas certas para habilitar tal tecnologia no ciclo de vida de desenvolvimento 
+							de produtos e soluções digitais.<br/><br/>
+							Somos um time multidisciplinar com expertise em desenvolvimento de software e metodologia ágil.
+							</p>
 						</div>
 						<div class="col-md-4">
 							<div class="block-heading-two">

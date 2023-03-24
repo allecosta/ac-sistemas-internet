@@ -23,8 +23,13 @@
 					<div class="col-md-12">
 						<div class="about-logo">
 							<h3>Serviços Top <span class="color">4+</span></h3>
-							<p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
-							<p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
+							<p>
+								Desenvolvemos soluções em tecnologia que facilitam e agilizam suas operações.
+							</p>
+							<p>
+								Desenvolvemos soluções digitais, o que chamamos de Top 4+, que se destacam por serem 
+								personalizadas e criteriosamente adaptadas à realidade de cada projeto que executamos.
+							</p>
 						</div>  
 					</div>
 				</div>			
@@ -32,31 +37,39 @@
 					<div class="skill-home"> 
 						<div class="skill-home-solid clearfix"> 
 							<div class="col-md-3 text-center">
-								<span class="icons c1"><i class="fa fa-book"></i></span> 
+								<span class="icons c1"><i class="fa fa-desktop"></i></span> 
 								<div class="box-area">
-									<h3>Web Desiging</h3> 
-									<p>Lorem ipsum dolor sitamet, consec tetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident</p>
+									<h3>Desenvol. de Sistemas</h3> 
+									<p>
+										Desenvolvemos sistemas para web, blogs e landpages, tudo de acordo com o desejo 
+										do cliente.
+									</p>
 								</div>
 							</div>
 							<div class="col-md-3 text-center"> 
-								<span class="icons c2"><i class="fa fa-users"></i></span> 
+								<span class="icons c2"><i class="fa fa-shopping-cart"></i></span> 
 								<div class="box-area">
 									<h3>E-Commerce</h3> 
-									<p>Lorem ipsum dolor sitamet, consec tetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident</p>
+									<p>
+										Desenvolvemos a sua loja virtual, visando sempre que o nosso cliente tenha o seu 
+										retorno financeiro.
+									</p>
 								</div>
 							</div>
 							<div class="col-md-3 text-center"> 
-								<span class="icons c3"><i class="fa fa-trophy"></i></span> 
+								<span class="icons c3"><i class="fa fa-cogs"></i></span> 
 								<div class="box-area">
-									<h3>Quality</h3> 
-									<p>Lorem ipsum dolor sitamet, consec tetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident</p>
+									<h3>Manutenção em Sistemas</h3> 
+									<p>Realizamos manutenção em sistemas web desenvolvido em PHP, Laravel ou Wordpress.</p>
 								</div>
 							</div>
 							<div class="col-md-3 text-center"> 
-								<span class="icons c4"><i class="fa fa-globe"></i></span> 
+								<span class="icons c4"><i class="fa fa-lightbulb-o"></i></span> 
 								<div class="box-area">
-									<h3>Mobile App</h3> 
-									<p>Lorem ipsum dolor sitamet, consec tetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident</p>
+									<h3>Design Gráfico</h3> 
+									<p>
+										Desenvolvemos a sua marca, sua propaganda nas diversas mídias sociais, conte conosco.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -64,47 +77,47 @@
 				</div> 
 				<div class="row">
 					<div class="col-sm-4 info-blocks">
-						<i class="icon-info-blocks fa fa-bell-o"></i>
+						<i class="icon-info-blocks fa fa-desktop"></i>
 						<div class="info-blocks-in">
-							<h3>Awesome Design</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+							<h3>Sites</h3>
+							<p>Desenvolvemos websites, sistemas e lojas virtuais (e-commerce).</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">
-						<i class="icon-info-blocks fa fa-hdd-o"></i>
+						<i class="icon-info-blocks fa fa-mobile"></i>
 						<div class="info-blocks-in">
-							<h3>FontAwesome</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+							<h3>Responsive Design</h3>
+							<p>Websites adaptáveis (responsivos) para todos os dispositivos móveis.</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">
 						<i class="icon-info-blocks fa fa-lightbulb-o"></i>
 						<div class="info-blocks-in">
-							<h3>Bootstrap</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+							<h3>Design Gráfico</h3>
+							<p>Produzimos banners, cards, logomarcas, convites, cartões personalizados e muito mais.</p>
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-sm-4 info-blocks">
+						<i class="icon-info-blocks fa fa-shopping-cart"></i>
+						<div class="info-blocks-in">
+							<h3>Lojas Virtuais</h3>
+							<p>Desenvolvemos a sua loja virtual / e-commerce.</p>
+						</div>
+					</div>
+					<div class="col-sm-4 info-blocks">
 						<i class="icon-info-blocks fa fa-code"></i>
 						<div class="info-blocks-in">
-							<h3>SEO Ready</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+							<h3>Blogs</h3>
+							<p>Blogs personalizados e responsivos, desenvolvidos sobre a plataforma Wordpress.</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">
-						<i class="icon-info-blocks fa fa-compress"></i>
+						<i class="icon-info-blocks fa fa-cogs"></i>
 						<div class="info-blocks-in">
-							<h3>Fully Responsive</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
-						</div>
-					</div>
-					<div class="col-sm-4 info-blocks">
-						<i class="icon-info-blocks fa fa-html5"></i>
-						<div class="info-blocks-in">
-							<h3>CSS3 + HTML5</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+							<h3>Sistemas</h3>
+							<p>Precisa de um sistema personalizado para sua empresa? Conte com a gente!</p>
 						</div>
 					</div>
 				</div>
