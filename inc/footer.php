@@ -10,8 +10,8 @@
                         Pin-21542 NewYork US.
                     </address> -->
                     <p>
-                        <i class="icon-phone"></i>(79) 9 9899-4170<br/><br/>
-                        <i class="icon-envelope-alt"></i> acsistemasweb@outlook.com
+                        <i class="fa fa-phone"></i> (79) 9 9899 - 4170<br/><br/>
+                        <i class="fa fa-envelope"></i> acsistemasweb@outlook.com
                     </p>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                 </div>
                 <div class="col-lg-6">
                     <ul class="social-network">
-                        <li><a href="https://www.instagram.com/acsistemasinternet/" target="_blank" data-placement="top" title="Facebook"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="https://www.instagram.com/acsistemasinternet/" target="_blank" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a></li>
                         <li><a href="#" data-placement="top" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
                         <li><a href="#" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>     
                     </ul>
