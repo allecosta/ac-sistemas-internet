@@ -23,14 +23,18 @@
 					<div class="col-md-12">
 						<div class="about-logo">
 							<h3>Construímos o Futuro</h3>
-							<p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
-							<p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
+							<p>
+								Somos uma desenvolvedora de soluções, investimos em tecnologias que favorecem
+								o seu negócio. Respiramos inovação, incentivamos o espírito criativo e empreendedor junto 
+								ao nosso squad, extraindo ideias do papel e transformando em soluções. 
+							</p>
+							<p>Somos a mudança, conectamos você ao futuro.</p>
 						</div>  
 					</div>
 				</div> 				
 			</div>
 		</section>	
-		<section id="gallery-1" class="content-block section-wrapper gallery-1">
+		<section id="gallery-1" class="content-block section-wrapper gallery-1" style="background-color: #121214;">
 			<div class="container">
 				<div class="editContent">
 					<ul class="filter">

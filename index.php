@@ -129,7 +129,7 @@
 								<li><span class="fa fa-angle-right"></span> Visão: Ser referência nacional na prestação de serviços ligados às novas tecnologias web.</li>
 								<li><span class="fa fa-angle-right"></span> Valores: Inovação tecnológica, criatividade, responsabilidade social e corporativa, espírito inovador, qualidade, flexibilidade, ética, lealdade e excelência.</li>
 							</ul>
-							<button type="button" class="button-more">
+							<button type="button" class="btn btn-primary">
 								<a href="about.php">Saiba mais</a>
 							</button>
 						</div>
