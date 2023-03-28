@@ -236,7 +236,7 @@ header .navbar-default .navbar-nav>.open>a:focus {
 
 header .navbar {
 	min-height: 62px;
-	padding: 0;
+	padding: 15px 0 25px 0;
 }
 
 header .navbar-nav>li {
@@ -305,9 +305,9 @@ header .nav li .dropdown-menu li a {
 /* --- menu --- */
 .flex-caption p {
 	line-height: 22px;
-	font-weight: 300;
-	color: #002e5b;
-	/* text-transform: capitalize; */
+	font-weight: 400;
+	color: #fff;
+	text-transform: capitalize;
 }
 
 header .navigation {
@@ -417,7 +417,7 @@ select.selectmenu {
 
 #banner {
 	width: 100%;
-	background: #000;
+	background: #0C0C0E;
 	position: relative;
 	margin: 0;
 	padding: 0;
@@ -474,7 +474,7 @@ select.selectmenu {
 }
 
 .flex-caption h3 {
-	color: #002e5b;
+	color: #8257E6;
 	letter-spacing: 0px;
 	margin-bottom: 8px;
 	text-transform: uppercase;
@@ -1180,11 +1180,11 @@ blockquote cite a:visited {
 /* --- button --- */
 .btn {
 	text-align: center;
-	color: #002e5b;
+	color: #fff;
 	padding: 12px 25px;
 	border-radius: 0;
-	background: #fdd428;
-	border-color: #fdd428;
+	background: transparent;
+	border-color: #8257E6;
 }
 
 .btn-theme {
@@ -1251,6 +1251,10 @@ h4.heading {
 	padding: 0;
 	font-weight: bold; */
 	font-size: 24px
+}
+
+.widget p>i {
+	color: #8257E6;
 }
 
 #bottom .widgetheading {
@@ -1887,10 +1891,10 @@ article .align-right {
 
 .btn:hover,
 .btn:focus {
-	color: #002e5b;
+	color: #fff;
 	text-decoration: none;
-	background: #fdd428;
-	border-color: #fdd428;
+	background: #8257E6;
+	border-color: #8257E6;
 }
 
 /*  Media queries 
