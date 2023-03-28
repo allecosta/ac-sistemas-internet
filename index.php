@@ -12,16 +12,16 @@
 			<div id="main-slider" class="flexslider">
 				<ul class="slides">
 					<li>
-						<img src="img/slides/1.jpg" alt="" />
+						<img src="img/slides/1.png" alt="Imagem 1 do banner do slide" />
 						<div class="flex-caption">
-							<h3>Criativo</h3> 
+							<h3>Transformation</h3> 
 							<p>Nós somos a mudança</p> 	 
 						</div>
 					</li>
 					<li>
-						<img src="img/slides/2.jpg" alt="" />
+						<img src="img/slides/2.png" alt="Imagem 2 do banner do slide" />
 						<div class="flex-caption">
-							<h3>Solução</h3> 
+							<h3>Future</h3> 
 							<p>Conectamos você ao futuro</p> 
 						</div>
 					</li>
@@ -59,14 +59,14 @@
 						<i class="icon-info-blocks fa fa-desktop"></i>
 						<div class="info-blocks-in">
 							<h3>Sites</h3>
-							<p>Desenvolvemos websites, sistemas e lojas virtuais (e-commerce).</p>
+							<p>Desenvolvemos websites, landing pages e blogs.</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">
 						<i class="icon-info-blocks fa fa-mobile"></i>
 						<div class="info-blocks-in">
-							<h3>Responsive Design</h3>
-							<p>Websites adaptáveis (responsivos) para todos os dispositivos móveis.</p>
+							<h3>Web App</h3>
+							<p>Design responsivo, com foco em mobile first e usabilidade.</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">
@@ -81,8 +81,8 @@
 					<div class="col-sm-4 info-blocks">
 						<i class="icon-info-blocks fa fa-shopping-cart"></i>
 						<div class="info-blocks-in">
-							<h3>Lojas Virtuais</h3>
-							<p>Desenvolvemos a sua loja virtual / e-commerce.</p>
+							<h3>E-commerce</h3>
+							<p>Desenvolvemos a sua loja virtual.</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">
@@ -121,13 +121,13 @@
 					<div class="col-md-6 col-sm-6">
 						<div class="about-text">
 							<p>
-								Conhecemos os nossos clientes, compreendemos suas metas, valores, objetivos e ambições para o seu négócio,
+								Conhecemos os nossos clientes, compreendemos suas metas, valores, objetivos e ambições para o seu negócio,
 								assim conseguimos atender e superar suas expectativas. 
 							</p>
 							<ul class="withArrow">
 								<li><span class="fa fa-angle-right"></span> Missão: Desenvolver produtos com base tecnológica, tendo sempre o diferencial da qualidade.</li>
-								<li><span class="fa fa-angle-right"></span> Visão: Ser referência nacional na prestação de serviços ligados às novas tecnologias web.</li>
-								<li><span class="fa fa-angle-right"></span> Valores: Inovação tecnológica, criatividade, responsabilidade social e corporativa, espírito inovador, qualidade, flexibilidade, ética, lealdade e excelência.</li>
+								<li><span class="fa fa-angle-right"></span> Visão: Ser referência na prestação de serviços ligados às novas tecnologias web.</li>
+								<li><span class="fa fa-angle-right"></span> Valores: Inovação tecnológica, criatividade, responsabilidade social, espírito inovador, qualidade, flexibilidade, ética, lealdade e excelência.</li>
 							</ul>
 							<button type="button" class="btn btn-primary">
 								<a href="about.php">Saiba mais</a>

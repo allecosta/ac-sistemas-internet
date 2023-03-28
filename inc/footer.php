@@ -56,7 +56,7 @@
                 <div class="col-lg-6">
                     <div class="copyright">
                         <p>
-                            <span>&copy;  <?= date('Y'); ?> Todos os direitos reservados | Desenvolvido por </span><a href="/about.php" target="_blank">AC Sistemas & Internet</a>
+                            <span>&copy;  <?= date('Y'); ?> Todos os direitos reservados | Desenvolvido por </span><a href="about.php" target="_blank">AC Sistemas & Internet</a>
                         </p>
                     </div>
                 </div>
