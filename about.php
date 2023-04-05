@@ -7,7 +7,7 @@
 		<!-- HEADER -->
 		<?php require './inc/header.php'; ?>
 
-		<!-- ABOUT -->
+		<!-- ABOUT US -->
 		<section id="inner-headline">
 			<div class="container">
 				<div class="row">
@@ -120,76 +120,7 @@
 								</div>
 							</div>
 						</div>
-						<!-- <div class="col-md-4">
-							<div class="block-heading-two">
-								<h3><span>Our Expertise</span></h3>
-							</div>								
-							<h6>Web Development</h6>
-							<div class="progress pb-sm">
-								<div class="progress-bar progress-bar-red" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
-									<span class="sr-only">40% Complete (success)</span>
-								</div>
-							</div>
-							<h6>Designing</h6>
-							<div class="progress pb-sm">
-								<div class="progress-bar progress-bar-green" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-									<span class="sr-only">40% Complete (success)</span>
-								</div>
-							</div>
-							<h6>User Experience</h6>
-							<div class="progress pb-sm">
-								<div class="progress-bar progress-bar-lblue" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
-									<span class="sr-only">40% Complete (success)</span>
-								</div>
-							</div>
-							<h6>Development</h6>
-							<div class="progress pb-sm">
-								<div class="progress-bar progress-bar-yellow" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%">
-									<span class="sr-only">40% Complete (success)</span>
-								</div>
-							</div>
-						</div>	 -->
 					</div>	
-					<br>
-					<!-- Our Team starts -->
-			
-					<!-- <div class="block-heading-six">
-							<h4 class="bg-color">Our Team</h4>
-					</div>
-					<br>
-					
-					<div class="team-six">
-						<div class="row">
-							<div class="col-md-3 col-sm-6">
-								<div class="team-member">
-									<img class="img-responsive" src="img/team1.jpg" alt="">
-									<h4>Johne Doe</h4>
-									<span class="deg">Creative</span> 
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6">
-								<div class="team-member">
-									<img class="img-responsive" src="img/team2.jpg" alt="">
-									<h4>Jennifer</h4>
-									<span class="deg">Programmer</span> 
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6">
-								<div class="team-member">
-									<img class="img-responsive" src="img/team3.jpg" alt="">
-									<h4>Christean</h4>
-									<span class="deg">CEO</span> 
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6">
-								<div class="team-member">
-									<img class="img-responsive" src="img/team4.jpg" alt="">
-									<h4>Kerinele rase</h4>
-									<span class="deg">Manager</span> 
-								</div>
-							</div>
-						</div> 
-					</div>-->
 				</div>
 			</div>
 		</section>

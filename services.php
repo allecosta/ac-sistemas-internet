@@ -25,7 +25,7 @@
 							<h3>Serviços Top <span class="color">4+</span></h3>
 							<p>
 								Desenvolvemos soluções em tecnologia que facilitam e agilizam suas operações.
-							</p><br />
+							</p>
 							<p>
 								Desenvolvemos soluções digitais, o que chamamos de Top 4+, que se destacam por serem 
 								personalizadas e criteriosamente adaptadas à realidade de cada projeto que executamos.
@@ -121,23 +121,6 @@
 						</div>
 					</div>
 				</div>
-				<!-- <div class="row service-v1 margin-bottom-40">
-					<div class="col-md-4 md-margin-bottom-40">
-					<img class="img-responsive" src="img/service/service1.jpg" alt="">   
-						<h3>General Checkup</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, doloribus omnis minus temporibus perferendis nesciunt quam repellendus nulla nemo ipsum odit corrupti consequuntur possimus</p>        
-					</div>
-					<div class="col-md-4">
-						<img class="img-responsive" src="img/service/service2.jpg" alt="">            
-						<h3>Heart Consultant</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, doloribus omnis minus temporibus perferendis nesciunt quam repellendus nulla nemo ipsum odit corrupti consequuntur possimus</p>        
-					</div>
-					<div class="col-md-4 md-margin-bottom-40">
-					<img class="img-responsive" src="img/service/service3.jpg" alt="">  
-						<h3>Nutrituion</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, doloribus omnis minus temporibus perferendis nesciunt quam repellendus nulla nemo ipsum odit corrupti consequuntur possimus</p>        
-					</div>
-				</div> -->
 			</div>
 		</section>
 		
