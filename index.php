@@ -12,14 +12,14 @@
 			<div id="main-slider" class="flexslider">
 				<ul class="slides">
 					<li>
-						<img src="img/slides/1.png" alt="Imagem 1 do banner do slide" />
+						<img src="img/slides/1.jpg" alt="Imagem 1 do banner do slide" />
 						<div class="flex-caption">
 							<h3>Transformation</h3> 
 							<p>Nós somos a mudança</p> 	 
 						</div>
 					</li>
 					<li>
-						<img src="img/slides/2.png" alt="Imagem 2 do banner do slide" />
+						<img src="img/slides/2.jpg" alt="Imagem 2 do banner do slide" />
 						<div class="flex-caption">
 							<h3>Future</h3> 
 							<p>Conectamos você ao futuro</p> 
@@ -82,7 +82,7 @@
 						<i class="icon-info-blocks fa fa-shopping-cart"></i>
 						<div class="info-blocks-in">
 							<h3>E-commerce</h3>
-							<p>Desenvolvemos a sua loja virtual.</p>
+							<p>Desenvolvemos a sua loja virtual, automatizando as suas vendas online.</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">
@@ -144,7 +144,7 @@
 			<div class="about home-about">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-4">
+						<div class="col-md-4 squad-p">
 							<div class="block-heading-two">
 								<h3><span>Squad as a Service</span></h3>
 							</div>
@@ -224,7 +224,7 @@
 								<h3><span>Pensamento</span></h3>
 							</div>	
 							<div class="testimonials">
-								<div class="active item">
+								<div class="active item squad-p">
 									<blockquote>
 										<p>
 											Vivemos em um mundo cada dia mais tecnológico, onde precisamos estarmos conectados
@@ -237,7 +237,7 @@
 										<img alt="" src="img/ceo.png" class="pull-left">
 										<div class="pull-left">
 											<span class="testimonials-name">Alexandre Costa</span>
-											<span class="testimonials-post">Head Desenvolvimento | Programador</span>
+											<span class="testimonials-post">Head Developer @ Founder AC</span>
 										</div>
 									</div>
 								</div>

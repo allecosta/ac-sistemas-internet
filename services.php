@@ -21,11 +21,11 @@
 			<div class="container content">		
 				<div class="row"> 
 					<div class="col-md-12">
-						<div class="about-logo">
+						<div class="about-logo service-top-four">
 							<h3>Serviços Top <span class="color">4+</span></h3>
 							<p>
 								Desenvolvemos soluções em tecnologia que facilitam e agilizam suas operações.
-							</p>
+							</p><br />
 							<p>
 								Desenvolvemos soluções digitais, o que chamamos de Top 4+, que se destacam por serem 
 								personalizadas e criteriosamente adaptadas à realidade de cada projeto que executamos.
@@ -34,19 +34,19 @@
 					</div>
 				</div>			
 				<div class="row">
-					<div class="skill-home"> 
+					<div class="skill-home col-xs-12"> 
 						<div class="skill-home-solid clearfix"> 
-							<div class="col-md-3 text-center">
+							<div class="col-md-3 text-center box-area-responsive">
 								<span class="icons c1"><i class="fa fa-desktop"></i></span> 
 								<div class="box-area">
-									<h3>Desenvol. de Sistemas</h3> 
+									<h3>Sistemas</h3> 
 									<p>
-										Desenvolvemos sistemas para web, blogs e landpages, tudo de acordo com o desejo 
+										Desenvolvemos sistemas para web, blogs e landing pages, tudo de acordo com o desejo 
 										do cliente.
 									</p>
 								</div>
 							</div>
-							<div class="col-md-3 text-center"> 
+							<div class="col-md-3 text-center box-area-responsive"> 
 								<span class="icons c2"><i class="fa fa-shopping-cart"></i></span> 
 								<div class="box-area">
 									<h3>E-Commerce</h3> 
@@ -56,14 +56,14 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-md-3 text-center"> 
+							<div class="col-md-3 text-center box-area-responsive"> 
 								<span class="icons c3"><i class="fa fa-cogs"></i></span> 
 								<div class="box-area">
 									<h3>Manutenção em Sistemas</h3> 
 									<p>Realizamos manutenção em sistemas web desenvolvido em PHP, Laravel ou Wordpress.</p>
 								</div>
 							</div>
-							<div class="col-md-3 text-center"> 
+							<div class="col-md-3 text-center box-area-responsive"> 
 								<span class="icons c4"><i class="fa fa-lightbulb-o"></i></span> 
 								<div class="box-area">
 									<h3>Design Gráfico</h3> 
@@ -86,8 +86,8 @@
 					<div class="col-sm-4 info-blocks">
 						<i class="icon-info-blocks fa fa-mobile"></i>
 						<div class="info-blocks-in">
-							<h3>Responsive Design</h3>
-							<p>Websites adaptáveis (responsivos) para todos os dispositivos móveis.</p>
+							<h3>Web App</h3>
+							<p>Design responsivo, com foco em mobile first e usabilidade.</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">
@@ -102,8 +102,8 @@
 					<div class="col-sm-4 info-blocks">
 						<i class="icon-info-blocks fa fa-shopping-cart"></i>
 						<div class="info-blocks-in">
-							<h3>Lojas Virtuais</h3>
-							<p>Desenvolvemos a sua loja virtual / e-commerce.</p>
+							<h3>E-commerce</h3>
+							<p>Desenvolvemos a sua loja virtual, automatizando as suas vendas online.</p>
 						</div>
 					</div>
 					<div class="col-sm-4 info-blocks">

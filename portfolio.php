@@ -21,7 +21,7 @@
 			<div class="container">
 				<div class="row"> 
 					<div class="col-md-12">
-						<div class="about-logo">
+						<div class="about-logo title-portfolio-responsive">
 							<h3>Construímos o Futuro</h3>
 							<p>
 								Somos uma desenvolvedora de soluções, investimos em tecnologias que favorecem
