@@ -1,8 +1,8 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-3 col-sm-3">
-                <div class="widget">
+            <div class="col-md-3 col-sm-4">
+                <div class="widget widget-p">
                     <h5 class="widgetheading">Contato</h5>
                     <!-- <address>
                         <strong>Bootstrap company Inc</strong><br>

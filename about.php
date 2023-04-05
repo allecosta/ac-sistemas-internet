@@ -21,7 +21,7 @@
 			<section class="section-padding">
 				<div class="container">
 					<div class="row showcase-section">
-						<div class="col-md-6">
+						<div class="col-md-6 about-us-img">
 							<img src="img/about.png" alt="logo da empresa">
 						</div>
 						<div class="col-md-6">
