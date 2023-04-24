@@ -986,7 +986,7 @@ form#commentform textarea {
 	border-color: #151515;
 }
 
-#call-to-action-2 {
+/* #call-to-action-2 {
 	background-color: #121214;
 	padding: 50px 0;
 }
@@ -1005,10 +1005,10 @@ form#commentform textarea {
 
 #call-to-action-2 .btn-primary {
 	border-color: #002e5b;
-	/* background: transparent; */
+	background: transparent;
 	margin-top: 50px;
 	color: #002e5b;
-}
+} */
 
 section.section-padding.gray-bg {
 	background: #0C0C0E;
@@ -1059,6 +1059,7 @@ section.section-padding.gray-bg {
 	font-weight: bold;
 }
 
+/* 
 .progress.pb-sm {
 	height: 6px !important;
 }
@@ -1078,16 +1079,16 @@ section.section-padding.gray-bg {
 }
 
 .progress .progress-bar.progress-bar-red {
-	/* background: #ed5441; */
+	background: #ed5441;
 }
 
 .progress .progress-bar.progress-bar-green {
-	/* background: #51d466; */
+	background: #51d466;
 }
 
 .progress .progress-bar.progress-bar-lblue {
-	/* background: #32c8de; */
-}
+	background: #32c8de;
+} */
 
 /* --- portfolio detail --- */
 .top-wrapper {
@@ -1281,7 +1282,7 @@ footer .widget .social-network {
 	position: relative;
 }
 
-.team-member h4 {
+/* .team-member h4 {
 	text-align: center;
 	margin-bottom: 5px;
 }
@@ -1289,7 +1290,7 @@ footer .widget .social-network {
 .team-member .deg {
 	text-align: center;
 	display: block;
-}
+} */
 
 #bottom .widget .widgetheading span,
 aside .widget .widgetheading span,

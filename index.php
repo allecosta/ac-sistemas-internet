@@ -28,19 +28,6 @@
 				</ul>
 			</div> 
 		</section> 
-		<!-- <section id="call-to-action-2">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-10 col-sm-9">
-						<h3>Best Business consulting</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, doloribus omnis minus temporibus perferendis nesciunt quam repellendus nulla nemo ipsum odit corrupti</p>
-					</div>
-					<div class="col-md-2 col-sm-3">
-						<a href="#" class="btn btn-primary">Read More</a>
-					</div>
-				</div>
-			</div>
-		</section> -->
 		
 		<!-- SERVICES -->
 		<section id="content">
@@ -103,7 +90,7 @@
 			</div>
 		</section>
 		
-		<!-- ORGANIZATION -->
+		<!-- OUR COMPANY -->
 		<section class="section-padding gray-bg">
 			<div class="container">
 				<div class="row">

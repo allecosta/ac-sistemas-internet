@@ -46,8 +46,6 @@
 						<li><a href="#" data-filter=".photography">Design</a></li>
 					</ul>
 				</div>
-
-				<!-- GALLERY-->
 				<div class="row">
 					<div id="isotope-gallery-container">
 						<div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper artwork creative">
@@ -104,8 +102,6 @@
 								</div>
 							</div>
 						</div>
-
-						<!-- /.gallery-item-wrapper -->
 						<div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper creative nature">
 							<div class="gallery-item">
 								<div class="gallery-thumb">
@@ -124,8 +120,6 @@
 								</div>
 							</div>
 						</div>
-
-						<!-- /.gallery-item-wrapper -->
 						<div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper nature">
 							<div class="gallery-item">
 								<div class="gallery-thumb">
@@ -144,8 +138,6 @@
 								</div>
 							</div>
 						</div>
-
-						<!-- /.gallery-item-wrapper -->
 						<div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper artwork creative">
 							<div class="gallery-item">
 								<div class="gallery-thumb">
@@ -165,10 +157,7 @@
 							</div>
 						</div>	
 					</div>
-					<!-- /.isotope-gallery-container -->
 				</div>
-				<!-- /.row --> 
-				<!-- /.container -->
 			</div>
 		</section>
 		
